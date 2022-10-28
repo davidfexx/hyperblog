@@ -103,3 +103,10 @@ body {
 #post {
     padding: 1em;
 }
+
+#footer{
+background: #777;
+color: white;
+text-aling: center;
+padding: 0.5em;
+}
