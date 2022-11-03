@@ -5,3 +5,5 @@ Freddy Vega tiene 32 años y nació en Colombia
 Mañana nos enfocaremos en su vida laboral
 
 anita platzi es una persona que contribuye al open source y nacio en internet
+
+estoy rama devidfexx despues de hacer marge con la rama de anitamaster
